@@ -1,0 +1,6 @@
+scikit-image
+segmentation-models-pytorch
+torch
+torchvision
+nd2reader
+numpy
